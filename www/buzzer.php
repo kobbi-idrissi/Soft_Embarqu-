@@ -96,7 +96,7 @@
       if( isset($_GET['buzzer']))
       {
         $buzzer = $_GET['buzzer'];
-        exec("/home/soft/www/c-bin/buzzer $buzzer");
+        exec(" c-bin/buzzer $buzzer");
       }
      ?>
    <img src="image/aide2.png"
