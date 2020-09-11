@@ -81,3 +81,13 @@ Par exemple pour éxecuter le code python de capteur de distance chaque 3min alo
 ```
 */3 * * * * sudo python /www/code/acquisition-distance.py > /www/code/resultat.txt
 ```
+
+## démonstratio:
+vous touvez [ici](https://youtu.be/i8v8KHEQkQ0) le lien de la démonstration.
+
+
+## Auteur :
+KOBBI IDRISSI Hajar
+
+## Remerciements :
+je tiens à remercier vivement mon professeur ***Mr.MANSOURI Anas*** ,pour ses conseils et ses enseignements qui m'ont permis de bien réussir ce projet.
