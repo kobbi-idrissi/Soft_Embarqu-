@@ -109,7 +109,7 @@
               </div>
     <?php
       
-        exec("/home/soft/www/c-bin/pirsensor");
+        exec("c-bin/pirsensor");
       
      ?>
 
