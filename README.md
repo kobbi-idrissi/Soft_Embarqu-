@@ -59,7 +59,7 @@ Installation de la base de donnée SQLITE3:
  langages:php,pyton,C
  serveur:ligthppd
  base de donée:SQLITE3
- j'ai utilisé WiringPi dans le code C de capteur de mouvement,pour avoir une pltae-forme commune est unique et un ensemble de fonctions pour accéder au GPIO de raspberry.***ATTENTION Wirigni Pi utilise son propre schéma de numération des broches.*** vous trouez plus d'inormations sur ce [site](https://fr.pinout.xyz/pinout/wiringpi).
+ ###### j'ai utilisé WiringPi dans le code C de capteur de mouvement,pour avoir une pltae-forme commune est unique et un ensemble de fonctions pour accéder au GPIO de raspberry.***ATTENTION Wirigni Pi utilise son propre schéma de numération des broches.*** vous trouez plus d'inormations sur ce [site](https://fr.pinout.xyz/pinout/wiringpi).
 
 ## Compilation et éxecution:
 code C :
