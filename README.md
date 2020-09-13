@@ -82,7 +82,7 @@ Par exemple pour éxecuter le code python de capteur de distance chaque 3min alo
 */3 * * * * sudo python /www/code/acquisition-distance.py > /www/code/resultat.txt
 ```
 
-## démonstratio:
+## démonstration:
 vous touvez [ici](https://youtu.be/i8v8KHEQkQ0) le lien de la démonstration.
 
 
